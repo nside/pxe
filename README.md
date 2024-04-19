@@ -13,7 +13,7 @@ PXE is a command-line utility that allows you to execute multiple shell commands
 To install PXE, you can use pip after cloning the repository:
 
 ```bash
-git clone https://example.com/pxe.git
+git clone https://github.com/nside/pxe
 cd pxe
 python setup.py install
 ```
