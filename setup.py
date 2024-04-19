@@ -19,6 +19,5 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',  # This is important for rendering Markdown on PyPI
     license="BSD",
-    keywords="parallel execution command line",
-    url="http://example.com/pxe",  # Project home page
+    keywords="parallel execution command line"
 )
