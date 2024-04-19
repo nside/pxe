@@ -13,11 +13,11 @@ setup(
             'pxe=pxe:main',
         ],
     },
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Denis Laprise",
+    author_email="git@2ni.net",
     description="A simple command line utility to execute commands in parallel.",
     long_description=long_description,
-    long_description_content_type='text/markdown',  # This is important for rendering Markdown on PyPI
+    long_description_content_type='text/markdown',
     license="BSD",
     keywords="parallel execution command line"
 )
